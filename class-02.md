@@ -27,7 +27,7 @@ DOM and refs updated.
 
 *Additional, **componentDidUpdate()**. A method used to perform network requests upon changes.
 
-![Lifecycle Diagram](filler) [1]
+![Lifecycle_Diagram](https://github.com/Bradley-Hower/301-reading-notes/assets/139923955/9cc763c7-dee1-470f-810b-998e8216709c) [1]
 
 ## React State vs Props
 
